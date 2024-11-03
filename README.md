@@ -4,7 +4,7 @@ This repository holds my Python programming projects done during 2022-2023.
 
 ## Project Source Code:
 * [caesar](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/caesar.py)
-  ＊ python semantics & syntax
+  * python semantics & syntax
 * [complement](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/complement.py)
   * python semantics & syntax
 * [factorial](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/factorial.py)
