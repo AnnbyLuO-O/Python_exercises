@@ -41,32 +41,6 @@ def build_complement(dna):
         return ans
 
 
-
-
-
-    # for alphabet in dna:
-    #     if alphabet == ' ':
-    #         print('DNA strand is missing.')
-    #     elif alphabet == 'A':
-    #         print('T', end='')
-    #     elif alphabet == 'T':
-    #         print('A', end='')
-    #     elif alphabet == 'C':
-    #         print('G', end='')
-    #     elif alphabet == 'G':
-    #         print('C', end='G')
-    # return ans
-
-
-
-
-
-
-
-
-
-
-
 # DO NOT EDIT CODE BELOW THIS LINE #
 
 if __name__ == '__main__':
