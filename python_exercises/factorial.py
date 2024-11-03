@@ -31,11 +31,6 @@ def main():
 		n = int(input('Give me a number, and I will list the answer of factorial: '))
 
 
-
-
-
-
-
 # DO NOT EDIT CODE BELOW THIS LINE #
 
 if __name__ == '__main__':
