@@ -1,5 +1,5 @@
 """
-File: factioral.py
+File: factorial.py
 Name: Annby
 -------------------
 This program will continually ask our user to give a number
