@@ -19,6 +19,7 @@ This repository holds my Python programming projects done during 2022-2023.
   * [demo](https://youtu.be/tL2cgBmyFHo)
 * [name_sq](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/name_sq.py)
   * python semantics & syntax
+  * [demo](https://youtu.be/U1pfC_QW-pM)
 * [narcissistic_checker](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/narcissistic_checker.py)
   * python semantics & syntax
 * [number_checker](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/number_checker.py)
