@@ -15,6 +15,7 @@ This repository holds my Python programming projects done during 2022-2023.
   * python semantics & syntax
 * [mirror_lake](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/mirror_lake.py)
   * image processing
+  * [demo](https://youtu.be/tL2cgBmyFHo)
 * [name_sq](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/name_sq.py)
   * python semantics & syntax
 * [narcissistic_checker](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/narcissistic_checker.py)
