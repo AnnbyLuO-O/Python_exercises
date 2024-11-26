@@ -13,6 +13,7 @@ This repository holds my Python programming projects done during 2022-2023.
   * python semantics & syntax
 * [hangman](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/hangman.py)
   * python semantics & syntax
+  * [demo](https://youtu.be/2XofCLugPXU)
 * [mirror_lake](https://github.com/AnnbyLuO-O/MypythonProjects/blob/main/python_exercises/mirror_lake.py)
   * image processing
   * [demo](https://youtu.be/tL2cgBmyFHo)
